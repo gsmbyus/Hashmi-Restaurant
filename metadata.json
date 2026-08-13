@@ -1,0 +1,6 @@
+{
+  "name": "Hashmi Restaurant",
+  "description": "Hashmi Restaurant - Luxury Black & Gold Restaurant & Hotel Management System by GSM_BY_US (Usama Saif)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
